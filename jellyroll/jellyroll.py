@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 
-# Copyright 2021 Chance Whaley
-# Author: first . last @ gmail
-# GitHub: @dotchance
-
-
 import websocket, json, argparse
 import sys
 #import os, time, logging
